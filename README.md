@@ -22,10 +22,10 @@ Optimized for both desktop and mobile devices.
 # Project Structure
 
 RBAC-UI/
-[├── index.html      # Main HTML file]
-[├── styles.css      # Stylesheet for the UI]
-[├── script.js       # JavaScript for UI logic]
-[└── README.md       # Documentation]
+- ├── index.html      # Main HTML file
+- ├── styles.css      # Stylesheet for the UI
+- ├── script.js       # JavaScript for UI logic
+- └── README.md       # Documentation
 
 ### Setup and Usage
 
@@ -74,4 +74,4 @@ You can easily replace this with actual API calls for real-world CRUD operations
 ### Author
 
 **P. Vengal Rao**
-For queries or collaboration, feel free to reach out!
+- For queries or collaboration, feel free to reach out!
